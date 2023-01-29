@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Sun Language Theories',
   author: 'Kevin Sun',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Sun Language Theories',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'kevsun1@gmail.com',
+  github: 'https://github.com/kebuhcah',
+  twitter: 'https://twitter.com/kebuhcah',
+  facebook: 'https://www.facebook.com/kebuhcah',
+  //youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/kevin-sun-191a6042/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

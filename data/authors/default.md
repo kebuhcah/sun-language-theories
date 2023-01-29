@@ -1,10 +1,10 @@
 ---
 name: Kevin Fei Sun 孫愷文
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 occupation: Machine Learning Data Linguist
 email: kevsun1@gmail.com
 twitter: https://twitter.com/kebuhcah
-linkedin: https://www.linkedin.com
+linkedin: https://www.linkedin.com/in/kevin-sun-191a6042/
 github: https://github.com/kebuhcah
 ---
 
